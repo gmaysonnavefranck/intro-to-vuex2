@@ -1,5 +1,5 @@
 # real-world-vue
-  Project from VueMastery to learn Vuex.
+  Project from VueMastery to learn Vuex. Here it is created a notification system using Vuex and some component communication to add and list user created events.
 
 ## Project setup
 ```
